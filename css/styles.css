@@ -4,7 +4,7 @@
 }
 
 .row-content {
-    margin: opx auto;
+    margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
@@ -27,4 +27,9 @@
     font-size: 80px;
     margin: 0px;
     color: #0f0f0f;
+}
+
+.row-aboutus {
+    margin: 0px auto;
+    padding: 5px auto;
 }
